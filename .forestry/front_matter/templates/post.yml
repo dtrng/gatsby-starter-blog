@@ -2,4 +2,11 @@
 label: Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: field
+  label: Field
+  description: a field
+- type: textarea
+  name: bread_text
+  label: Bread text
