@@ -10,3 +10,5 @@ fields:
 - type: textarea
   name: bread_text
   label: Bread text
+pages:
+- src/pages/myself.md
